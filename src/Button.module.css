@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css?family=Core+Circus");
+
+.button {
+  width: auto;
+  height: 77px;
+  background: #07182E;
+  position: absolute;
+  top: 41%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  border-radius: 8px;
+  font-family: 'Core Circus', sans-serif;
+  padding: 1em 0; /* Adjust the top and bottom padding as needed */
+  box-sizing: border-box; /* Include padding in the total height */
+  z-index: 2;
+}
+
+.button h3 {
+  z-index: 2;
+  color: white;
+  font-size: 2em;
+  font-weight: 400; /* Set the desired font weight */
+  letter-spacing: 1px; /* Adjust the letter spacing as per your preference */
+  text-align: center; /* Center the text horizontally */
+  white-space: nowrap; /* Added property to force single line */
+  padding: 0 1em; /* Add padding for two letters' worth of space */
+
+
+}
+
+.button::before {
+  content: '';
+  position: absolute;
+  width: 913px;
+  background-image: linear-gradient(180deg, rgb(234, 139, 25), rgb(234, 139, 25));
+  height: 130%;
+  animation: rotBGimg 3s linear infinite;
+  transition: all 0.2s linear;
+}
+
+.button::after {
+  content: '';
+  position: absolute;
+  background: #07182E;
+  inset: 5px;
+  border-radius: 15px;
+}
+
+@keyframes rotBGimg {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
