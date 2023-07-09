@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.929b0a2f.css",
-    "main.js": "/static/js/main.944a4e23.js",
-    "static/css/636.c9136488.chunk.css": "/static/css/636.c9136488.chunk.css",
+    "main.js": "/static/js/main.466aee16.js",
+    "static/css/636.f548d2fe.chunk.css": "/static/css/636.f548d2fe.chunk.css",
     "static/js/636.bca8286f.chunk.js": "/static/js/636.bca8286f.chunk.js",
     "static/js/787.7af5008d.chunk.js": "/static/js/787.7af5008d.chunk.js",
     "static/media/impuestos.png": "/static/media/impuestos.e2734efe6ef7c5c88481.png",
@@ -58,13 +58,13 @@
     "static/media/instagram.png": "/static/media/instagram.32c6eadf4a7803db871c.png",
     "index.html": "/index.html",
     "main.929b0a2f.css.map": "/static/css/main.929b0a2f.css.map",
-    "main.944a4e23.js.map": "/static/js/main.944a4e23.js.map",
-    "636.c9136488.chunk.css.map": "/static/css/636.c9136488.chunk.css.map",
+    "main.466aee16.js.map": "/static/js/main.466aee16.js.map",
+    "636.f548d2fe.chunk.css.map": "/static/css/636.f548d2fe.chunk.css.map",
     "636.bca8286f.chunk.js.map": "/static/js/636.bca8286f.chunk.js.map",
     "787.7af5008d.chunk.js.map": "/static/js/787.7af5008d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.929b0a2f.css",
-    "static/js/main.944a4e23.js"
+    "static/js/main.466aee16.js"
   ]
 }
