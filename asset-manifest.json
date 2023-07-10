@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.0884634a.css",
+    "main.css": "/static/css/main.1e1fcdbd.css",
     "main.js": "/static/js/main.905d99ea.js",
     "static/js/787.7af5008d.chunk.js": "/static/js/787.7af5008d.chunk.js",
     "static/media/impuestos.png": "/static/media/impuestos.e2734efe6ef7c5c88481.png",
@@ -36,12 +36,12 @@
     "static/media/2.png": "/static/media/2.781e663c919d19c89421.png",
     "static/media/instagram.png": "/static/media/instagram.32c6eadf4a7803db871c.png",
     "index.html": "/index.html",
-    "main.0884634a.css.map": "/static/css/main.0884634a.css.map",
+    "main.1e1fcdbd.css.map": "/static/css/main.1e1fcdbd.css.map",
     "main.905d99ea.js.map": "/static/js/main.905d99ea.js.map",
     "787.7af5008d.chunk.js.map": "/static/js/787.7af5008d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0884634a.css",
+    "static/css/main.1e1fcdbd.css",
     "static/js/main.905d99ea.js"
   ]
 }
