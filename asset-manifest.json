@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7b70b45f.css",
-    "main.js": "/static/js/main.905d99ea.js",
+    "main.css": "/static/css/main.0c3d8c7c.css",
+    "main.js": "/static/js/main.1473dc24.js",
     "static/js/787.7af5008d.chunk.js": "/static/js/787.7af5008d.chunk.js",
     "static/media/impuestos.png": "/static/media/impuestos.e2734efe6ef7c5c88481.png",
     "static/media/yo.png": "/static/media/yo.70feeff888f2d4c17cf8.png",
@@ -34,14 +34,15 @@
     "static/media/3.png": "/static/media/3.a5a137fe2a40128c9728.png",
     "static/media/5.png": "/static/media/5.13e21deff1ba51d544cf.png",
     "static/media/2.png": "/static/media/2.781e663c919d19c89421.png",
+    "static/media/newsletter.png": "/static/media/newsletter.e2690b184a66f233f8f0.png",
     "static/media/instagram.png": "/static/media/instagram.32c6eadf4a7803db871c.png",
     "index.html": "/index.html",
-    "main.7b70b45f.css.map": "/static/css/main.7b70b45f.css.map",
-    "main.905d99ea.js.map": "/static/js/main.905d99ea.js.map",
+    "main.0c3d8c7c.css.map": "/static/css/main.0c3d8c7c.css.map",
+    "main.1473dc24.js.map": "/static/js/main.1473dc24.js.map",
     "787.7af5008d.chunk.js.map": "/static/js/787.7af5008d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b70b45f.css",
-    "static/js/main.905d99ea.js"
+    "static/css/main.0c3d8c7c.css",
+    "static/js/main.1473dc24.js"
   ]
 }
